@@ -20,7 +20,7 @@ export default function PersonalInfo() {
 
             </div>
             <div className="w-32 flex-none md:block hidden">
-                <Image src="/profile_circle.png" width={150} height={150} alt="Profile" />
+                <Image src="profile_circle.png" width={150} height={150} alt="Profile" />
             </div>
         </div>
     )
