@@ -1,0 +1,16 @@
+{
+  "acheivements": [
+    {
+      "title": "Boosted Team Efficiency",
+      "detail": "Increased platform efficiency through team collaboration and innovative solutions."
+    },
+    {
+      "title": "Optimized API Performance",
+      "detail": "Reduced API response time with optimized server architecture and streamlined code."
+    },
+    {
+      "title": "Enhanced Payment System",
+      "detail": "Integrate with multiple payment methods. Implemented cashless payment system. "
+    }
+  ]
+}

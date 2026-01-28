@@ -1,0 +1,152 @@
+{
+  "datawow": {
+    "company": "Data Wow",
+    "location": "Bangkok, Thailand",
+    "position": [
+      {
+        "title": "Senior Technical Team Lead, Senior Backend Engineer",
+        "period": "Jun 2022 - Current"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Yay",
+        "technology": "Ruby on Rails, ElasticSearch, Redis, Postgresql, MySql, ReactJS, Cassandra",
+        "descriptions": [
+          "Led a remote cross-functional team of 5-6 members in Japan, ensuring timely delivery and maintaining quality standards.",
+          "Developed and maintained API server for Yay app mainly using Ruby on Rails",
+          "Implemented complex ElasticSearch queries to deliver personalized content to over 100k DAU, improving engagement.",
+          "Designed and developed admin tools for customer support using ReactJS."
+        ]
+      }
+    ]
+  },
+  "opn": {
+    "company": "Opn",
+    "location": "Bangkok, Thailand",
+    "position": [
+      {
+        "title": "Engineering Manager",
+        "period": "Aug 2021- May 2022"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Opn Store (E-Commerce Platform)",
+        "technology": "Ruby on Rails, NodeJS, ReactJS, Typescript, NextJS, Bootstrap, Graphql, TailwindCSS",
+        "descriptions": [
+          "Managed the team and provided advice on technical problems",
+          "Planned tasks for team members and followed up on progress to ensure timely delivery",
+          "Developed an all-in-one E-Commerce Platform providing merchants with a powerful dashboard",
+          "Enabled merchants to manage their products, orders, stock, and update fulfillment status",
+          "Integrated with Shippop for automatic tracking status updates",
+          "Provided merchants with customizable websites for easy customer checkout and payment",
+          "Assisted merchants in customizing their website theme and branding using liquid templates",
+          "Oversaw the theme editor service and admin service using Ruby on Rails",
+          "Designed and developed admin tools for customer support using ReactJS"
+        ]
+      }
+    ]
+  },
+  "eventpop": {
+    "company": "Eventpop",
+    "location": "Bangkok, Thailand",
+    "position": [
+      {
+        "title": "Senior Software Developer (Full Stack)",
+        "period": "Oct 2015 - Jul 2021"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Eventpop (Event Management and Ticketing Platform)",
+        "technology": "Ruby on Rails, ReactJS, jQuery, Bootstrap, Postgresql, Redis, ElasticSearch",
+        "descriptions": [
+          "Implement ticketing platform and serves organizers to hold events from start to finish",
+          "Offers a number of features to simplify event management like promotes events and sells tickets",
+          "Books plane tickets and manages seating reservations",
+          "Tracks conversions and supports multiple payment methods",
+          "Boosts sales with discount codes and credit card discounts",
+          "Generate sales reporting and analytics for organizers",
+          "Includes a check-in app to display attendee data",
+          "Ensures smooth event management for organizers to focus on other areas",
+          "Provides excellent services to ticket buyers",
+          "Developed and maintained the main Eventpop platform using Ruby on Rails",
+          "Built various internal tools for customer support using Ruby on Rails, ReactJS and jQuery"
+        ]
+      },
+      {
+        "title": "Spark by Eventpop (Cashless Payment System)",
+        "technology": "Ruby on Rails, ReactJS, jQuery, Bootstrap",
+        "descriptions": [
+          "Cashless payment with NFC chip that help customer buy items without worrying the network failure because we support offline mode",
+          "Powerful dashboard that give organizer useful information e.g. hot selling items on each hour, top spenders and sales report for each vendors"
+        ]
+      },
+      {
+        "title": "Virtualrun",
+        "technology": "Ruby on Rails, ReactJS, Ant Design",
+        "descriptions": [
+          "Virtual competition platform for submitting exercise and running results with images",
+          "Processes data and syncs exercise data from applications such as Strava, Apple Health, Google Fit, etc",
+          "Allows organizers to hold events for participants",
+          "Competitors achieve goals to receive E-certification and rewards",
+          "Leaderboard feature provides motivation for competitors to challenge each other or teams"
+        ]
+      }
+    ]
+  },
+  "oozou": {
+    "company": "OOZOU",
+    "location": "Bangkok, Thailand",
+    "position": [
+      {
+        "title": "Software Developer (Full Stack)",
+        "period": "Sep 2013 - Oct 2015"
+      }
+    ],
+    "projects": [
+      {
+        "title": "Slimwiki",
+        "technology": "Ruby on Rails, AngularJS",
+        "descriptions": [
+          "Developed and maintained Slimwiki, a simple wiki platform for teams to share knowledge and collaborate",
+          "Implemented new features and fixed bugs to enhance user experience",
+          "Worked on both frontend and backend using Ruby on Rails and AngularJS"
+        ]
+      },
+      {
+        "title": "Jiffyshirts",
+        "technology": "Ruby on Rails, AngularJS, Bootstrap",
+        "descriptions": [
+          "U.S. Wholesale t-shirt website using AngularJS",
+          "Improved frontend usability for mobile users",
+          "Enhanced the selection process for multiple variants",
+          "Optimized frontend performance",
+          "Collaborated closely with design team on ideas",
+          "Utilized Ruby on Rails, AngularJS, and Bootstrap"
+        ]
+      }
+    ]
+  },
+  "inotechne": {
+    "company": "InoTechne",
+    "location": "Bangkok, Thailand",
+    "position": [
+      {
+        "title": "Software Developer (Full Stack)",
+        "period": "Oct 2011 - Sep 2013"
+      }
+    ]
+  },
+  "mgbsoftware": {
+    "company": "MGB Software",
+    "location": "Bangkok, Thailand",
+    "position": [
+      {
+        "title": "Junior Software Developer (Full Stack)",
+        "period": "Apr 2011 - Sep 2011"
+      }
+    ]
+  }
+}

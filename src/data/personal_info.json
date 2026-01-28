@@ -1,0 +1,36 @@
+{
+  "name": "Monsiree Tassanakatithum",
+  "position": "Lead Software Engineer",
+  "nickname": "Mon",
+  "location": "Bangkok, Thailand",
+  "email": "monsiree.t.work@gmail.com",
+  "github": "monthas",
+  "phone": "+668-3655-6596",
+  "linkedin": "https://www.linkedin.com/in/monsiree-tassanakathitum-3507988a/",
+  "bio": "I am just an ordinary Full Stack Developer who enjoy to solving the problems. Who wants to make the great software that help humanity life easier and happier. I also want some challenges to be better and better developer.",
+  "education": [
+    {
+      "title": "B.S. Degree in Computer Science",
+      "university": "Kasetsart University, Bangkok Thailand",
+      "period": "2007 - 2011"
+    }
+  ],
+  "english_level": {
+    "reading": "Excellent",
+    "writing": "Good",
+    "speaking": "Good",
+    "listening": "Good"
+  },
+  "languages": [
+    {
+      "name": "Thai",
+      "grade": "Native",
+      "level": 5
+    },
+    {
+      "name": "English",
+      "grade": "Good",
+      "level": 4
+    }
+  ]
+}
