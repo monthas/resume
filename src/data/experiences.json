@@ -80,7 +80,8 @@
         "technology": "Ruby on Rails, ReactJS, jQuery, Bootstrap",
         "descriptions": [
           "Cashless payment with NFC chip that help customer buy items without worrying the network failure because we support offline mode",
-          "Powerful dashboard that give organizer useful information e.g. hot selling items on each hour, top spenders and sales report for each vendors"
+          "Processed data from mobile app and sync to server",
+          "Provide dashboard that give organizer useful information e.g. hot selling items on each hour, top spenders and sales report for each vendors"
         ]
       },
       {
@@ -89,9 +90,9 @@
         "descriptions": [
           "Virtual competition platform for submitting exercise and running results with images",
           "Processes data and syncs exercise data from applications such as Strava, Apple Health, Google Fit, etc",
-          "Allows organizers to hold events for participants",
-          "Competitors achieve goals to receive E-certification and rewards",
-          "Leaderboard feature provides motivation for competitors to challenge each other or teams"
+          "Support organizers to hold events for runners/participants",
+          "Generate E-certification for participants who achieve the goals",
+          "Provided leaderboard feature to motivation for competitors to challenge each other and teams"
         ]
       }
     ]
@@ -111,8 +112,8 @@
         "technology": "Ruby on Rails, AngularJS",
         "descriptions": [
           "Developed and maintained Slimwiki, a simple wiki platform for teams to share knowledge and collaborate",
-          "Implemented new features and fixed bugs to enhance user experience",
-          "Worked on both frontend and backend using Ruby on Rails and AngularJS"
+          "Implemented new features, maintained and leveraged existing features to enhance user experience",
+          "Worked on backend using Ruby on Rails and frontend usingAngularJS"
         ]
       },
       {
